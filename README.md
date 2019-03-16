@@ -40,9 +40,12 @@ Second programming assignment for learning C as a second programming language.
 ### Extension
 
 Your choice here...
-
+I chose delete for singly-linked list of integers
 ### Implementation notes
 
 Your description here. Code samples will be appreciated...
-
+-creates linked list function(addNode) to make a singly-linked list
+c-reates a delete function(list_delete) to scan the list for a value given by the parameter. It then deletes the
+corresponding node
+-all is executed into main and prints a before and after the delete function is used on the list
 
